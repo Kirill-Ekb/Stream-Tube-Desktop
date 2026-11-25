@@ -756,6 +756,7 @@
   "Saving to {0}. Engine {1}": "Збереження до {0}. Двигун {1}",
   "No videos from the last {0} days in your feed yet. Sign in or subscribe to some channels to fill this up.": "У вашій подачі ще немає відео за останні {0} днів. Ввійдіть до системи або підпишіться на деякі канали, щоб заповнити цю подачу.",
   "Couldn't remove it from YouTube: {0}": "Не вдалося вилучити з YouTube: {0}",
+  "Couldn't remove the watched videos on your YouTube account": "Не вдалося видалити переглянуті відео з облікового запису YouTube",
   "{0} videos": "Відео {0}",
   "Could not load your YouTube playlists: {0}": "Не вдалося завантажити плейлисти YouTube ({0})",
   "{0} h {1} min": "{0} год {1} хв",

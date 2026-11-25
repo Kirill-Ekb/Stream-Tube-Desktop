@@ -756,6 +756,7 @@
   "Saving to {0}. Engine {1}": "Speichern auf {0}. Motor {1}",
   "No videos from the last {0} days in your feed yet. Sign in or subscribe to some channels to fill this up.": "Noch keine Videos der letzten {0} Tage in deinem Feed. Melde dich an oder abonniere einige Kanäle, um diesen zu füllen.",
   "Couldn't remove it from YouTube: {0}": "Konnte es nicht von YouTube entfernen: {0}",
+  "Couldn't remove the watched videos on your YouTube account": "Die angesehenen Videos konnten in deinem YouTube-Konto nicht entfernt werden",
   "{0} videos": "{0} Videos",
   "Could not load your YouTube playlists: {0}": "Deine YouTube-Playlists konnten nicht geladen werden ({0})",
   "{0} h {1} min": "{0} Std. {1} Min.",

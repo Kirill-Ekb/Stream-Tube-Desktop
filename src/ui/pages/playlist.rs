@@ -249,7 +249,7 @@ impl PlaylistPage {
                                 this.count_text = None;
                                 toast(cx, done);
                             }
-                            Err(_) => toast(cx, "Couldn't remove the watched videos on your YouTube account"),
+                            Err(_) => toast(cx, t("Couldn't remove the watched videos on your YouTube account")),
                         }
                         cx.notify();
                     });

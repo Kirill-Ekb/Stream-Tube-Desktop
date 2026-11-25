@@ -756,6 +756,7 @@
   "Saving to {0}. Engine {1}": "{0} дегенге сақтау. Тетігі {1}",
   "No videos from the last {0} days in your feed yet. Sign in or subscribe to some channels to fill this up.": "Соңғы {0} күндегі бейнелер ақпарыңызда жоқ. Бұл арнаны толтыру үшін жүйеге кіріңіз немесе арналарға жазылыңыз.",
   "Couldn't remove it from YouTube: {0}": "YouTube-тан өшіруге болмайды: {0}",
+  "Couldn't remove the watched videos on your YouTube account": "YouTube тіркелгіңізден қаралған бейнелерді жою мүмкін болмады",
   "{0} videos": "{0} бейне",
   "Could not load your YouTube playlists: {0}": "YouTube плейлисттерін жүктеу мүмкін болмады ({0})",
   "{0} h {1} min": "{0} сағ {1} мин",

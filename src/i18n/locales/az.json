@@ -756,6 +756,7 @@
   "Saving to {0}. Engine {1}": "{0}-a qeyd edilir. Motor {1}",
   "No videos from the last {0} days in your feed yet. Sign in or subscribe to some channels to fill this up.": "Son {0} gün ərzində axınınızda heç bir video yoxdur. Bu boşluğu doldurmaq üçün daxil olun və ya bəzi kanallara abunə olun.",
   "Couldn't remove it from YouTube: {0}": "YouTube-dan çıxarıla bilmədi: {0}",
+  "Couldn't remove the watched videos on your YouTube account": "YouTube hesabınızdan izlənilən videolar silinə bilmədi",
   "{0} videos": "{0} video",
   "Could not load your YouTube playlists: {0}": "YouTube pleylistlərinizi yükləmək mümkün olmadı ({0})",
   "{0} h {1} min": "{0} saat {1} dəq.",

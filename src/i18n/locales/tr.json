@@ -756,6 +756,7 @@
   "Saving to {0}. Engine {1}": "{0} konumuna kaydediliyor. İndirme motoru {1}",
   "No videos from the last {0} days in your feed yet. Sign in or subscribe to some channels to fill this up.": "Akışınızda son {0} günden video yok. Video görmek için oturum açın veya kanallara abone olun.",
   "Couldn't remove it from YouTube: {0}": "YouTube'dan kaldırılamadı ({0})",
+  "Couldn't remove the watched videos on your YouTube account": "YouTube hesabınızdaki izlenen videolar kaldırılamadı",
   "{0} videos": "{0} video",
   "Could not load your YouTube playlists: {0}": "YouTube oynatma listeleriniz yüklenemedi ({0})",
   "{0} h {1} min": "{0} sa {1} dk",

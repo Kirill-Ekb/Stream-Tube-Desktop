@@ -756,6 +756,7 @@
   "Saving to {0}. Engine {1}": "保存到{0}引擎{1}",
   "No videos from the last {0} days in your feed yet. Sign in or subscribe to some channels to fill this up.": "您的收藏中尚無過去 {0} 天的影片。 登錄或訂閱一些頻道以填補此空白。",
   "Couldn't remove it from YouTube: {0}": "沒辦法從YouTube上移除 ： {0}",
+  "Couldn't remove the watched videos on your YouTube account": "無法從 YouTube 帳號移除已觀看的影片",
   "{0} videos": "{0} 部影片",
   "Could not load your YouTube playlists: {0}": "無法載入你的 YouTube 播放清單（{0}）",
   "{0} h {1} min": "{0} 小時 {1} 分鐘",
