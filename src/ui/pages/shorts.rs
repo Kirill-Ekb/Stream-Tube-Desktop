@@ -7,7 +7,7 @@ use crate::player::controller::{PlayerEvent, player};
 use crate::store;
 use crate::ui::app::{Route, UiState, navigate};
 use crate::ui::*;
-use crate::ui::pages::watch::{reply_parents, thread_branch};
+use crate::ui::pages::watch::{reply_count_label, reply_parents, thread_branch};
 use crate::ui::widgets::{Load, comment_body};
 use std::collections::HashMap;
 use std::time::{Duration, Instant};
@@ -433,7 +433,7 @@ impl ShortsPage {
                 .font_weight(FontWeight::MEDIUM)
                 .cursor_pointer()
                 .child(icon(if open { "chevron-up" } else { "chevron-down" }).size_4().text_color(p.link))
-                .child(format!("{} {}", c.reply_count, if c.reply_count == "1" { "reply" } else { "replies" }))
+                .child(reply_count_label(&c.reply_count))
                 .on_click(cx.listener(move |t, _, _, cx| {
                     if t.replies.remove(&cid2).is_some() {
                         cx.notify();
