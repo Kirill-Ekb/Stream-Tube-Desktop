@@ -373,6 +373,7 @@
   "Downvote": "反対票を投じる",
   "Thanks for voting": "投票ありがとうございます",
   "No playable stream found": "再生できるストリームがありません",
+  "Playback stopped before the end of the video.": "再生が動画の終了前に停止しました。",
   "Video ID": "動画ID",
   "Resolution": "解像度",
   "Frames": "フレーム",

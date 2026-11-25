@@ -43,6 +43,12 @@ mod playback_error_tests {
         let error = "Playback error: invalid parameter";
         assert_eq!(playback_error_message(error), error);
     }
+
+    #[::core::prelude::v1::test]
+    fn keeps_the_premature_end_notice() {
+        let error = "Playback stopped before the end of the video.";
+        assert_eq!(playback_error_message(error), error);
+    }
 }
 
 #[derive(Clone, Copy, PartialEq)]

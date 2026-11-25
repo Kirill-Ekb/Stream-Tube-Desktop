@@ -362,6 +362,9 @@ pub fn friendly_error(err: &str) -> String {
     if lower.contains("private video") {
         return t("This video is private.").into();
     }
+    if lower.contains("playback stopped before the end of the video") {
+        return t("Playback stopped before the end of the video.").into();
+    }
     let line = err.lines().next().unwrap_or(err).trim();
     // which YouTube client failed is a detail, not news
     let line = ["visionOS: ", "Android VR: ", "Innertube: ", "yt-dlp: "]
