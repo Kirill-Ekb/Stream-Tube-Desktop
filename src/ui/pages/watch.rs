@@ -362,7 +362,7 @@ impl WatchPage {
             list = list.child(row);
         }
         if let (Some(e), false) = (&chat.error, chat.messages.is_empty()) {
-            list = list.child(div().py_2().text_xs().text_color(p.text3).child(e.clone()));
+            list = list.child(div().py_2().text_xs().text_color(p.text3).child(translate(e).to_string()));
         }
         let signed_in = crate::api::auth::signed_in();
         localize_placeholder(&chat.input, if signed_in { "Chat…" } else { "Sign in to chat" }, window, cx);
